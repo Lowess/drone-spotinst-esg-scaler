@@ -1,6 +1,8 @@
 drone-spotinst-esg-scaler
 ====================
 
+[![Build Status](https://cloud.drone.io/api/badges/Lowess/drone-spotinst-esg-scaler/status.svg)](https://cloud.drone.io/Lowess/drone-spotinst-esg-scaler)
+
 * Author: `Florian Dambrine <florian@gumgum.com>`
 
 Adjust the capacity of a Spotinst ESG
